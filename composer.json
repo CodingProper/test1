@@ -1,0 +1,16 @@
+{
+    "name": "vendor/wordpress",
+    "description": "f",
+    "autoload": {
+        "psr-4": {
+            "Vendor\\Wordpress\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ali",
+            "email": "muhamedaliwf@mail.ru"
+        }
+    ],
+    "require": {}
+}
